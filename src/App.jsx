@@ -1,9 +1,9 @@
 import './App.css'
+import Father from "./components/pure/father"
 
 export default function App() {
   return (
-    <main>
-      React ⚛️ + Vite ⚡ + Replit 🌀
-    </main>
+    <Father></Father>
+
   )
 }
